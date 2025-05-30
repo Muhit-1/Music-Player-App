@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609648534615",
+    "project_id": "music-app-froggy",
+    "storage_bucket": "music-app-froggy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609648534615:android:6aad8c44e2a811fabcaf12",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPN-Fg7kg9lQ1Kc9B8_8EH71J_DEzHFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
