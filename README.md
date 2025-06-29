@@ -36,7 +36,7 @@ Song metadata and images are hosted using **Firebase Firestore** and **imgbb.com
 
 | Home | Genre View | Player |
 |------|------------|--------|
-| ![home](https://i.ibb.co/Vcxxrrx4/Whats-App-Image-2025-06-29-at-22-36-33-1092d730.jpg) | ![genre](screenshots/genre.png) | ![player](screenshots/player.png) |
+| ![home](https://i.ibb.co/Vcxxrrx4/Whats-App-Image-2025-06-29-at-22-36-33-1092d730.jpg) | ![genre](https://i.ibb.co/hrBWvJ6/Whats-App-Image-2025-06-29-at-22-47-16-7911797c.jpg) | ![player](https://i.ibb.co/RpgMsQfR/Whats-App-Image-2025-06-29-at-22-36-33-54321f79.jpg) |
 
 ---
 
